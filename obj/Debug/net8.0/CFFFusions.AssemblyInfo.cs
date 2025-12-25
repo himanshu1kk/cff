@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CFFFusions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68730ddfe39e0b3375bec4e551fa0adc4dccb584")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ecb0a0331976d73c50e29bc53ea34392213da2c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CFFFusions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CFFFusions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
